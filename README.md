@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Self_Assistant_AI_Web_App
 
 AI Career Guidance and Knowledge Testing Web Application.
@@ -92,3 +93,6 @@ The web app is live on : https://self-assistant-ai-web-app.vercel.app/
 ## Note
 
 - Get Gemini API Key go to Google Ai Studio - https://aistudio.google.com/app/apikey
+=======
+# Ai-based-Career-Guidance-System
+>>>>>>> a4fe22fecbea1b2a971bd54e2e8e415a5688fec9
